@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-#SPDX-License-Identifier: GPL-3.0
+#SPDX-License-Identifier: BSD
 #Copyright (c) Shunsuke Yoneyama & Ryuichi Ueda All rights reserved.
 
 import rospy
