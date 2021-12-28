@@ -64,7 +64,7 @@ class glass:
 
 if __name__ == '__main__':
     rospy.init_node('amount')
-    sub = rospy.Subscriber('count_up',Int32,cb)
+    sub = rospy.Subscriber('input',Int32,cb)
     pub = rospy.Publisher('amount', Int32 ,queue_size = 1)
     rate = rospy.Rate(1)
     myglass = glass(55,75,125)

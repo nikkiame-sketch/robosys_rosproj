@@ -4,7 +4,7 @@
   <version>1.0.0</version>
   <description>The mypkg package</description>
 
-  <maintainer email="">shunsuke yoneyama</maintainer>
+  <maintainer email="hoge@example.com">shunsuke yoneyama</maintainer>
   <license>BSD</license>
 
 
