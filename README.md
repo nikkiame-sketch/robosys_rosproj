@@ -8,7 +8,7 @@
 
 
 
-授業で扱った上田先生（https://github.com/ryuichiueda)のプログラムに必要な処理を追記する形で製作しています。
+授業で扱った上田先生 （https://github.com/ryuichiueda) のプログラムに必要な処理を追記する形で製作しています。
 
 動作環境:Raspberry pi 3b,ubuntu20.04LTS
 
